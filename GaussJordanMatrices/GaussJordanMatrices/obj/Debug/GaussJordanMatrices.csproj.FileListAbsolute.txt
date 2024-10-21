@@ -1,0 +1,10 @@
+C:\Users\hugor\OneDrive\Documentos\Algebra Lineal\GaussJordanMatrices\GaussJordanMatrices\GaussJordanMatrices\bin\Debug\GaussJordanMatrices.exe.config
+C:\Users\hugor\OneDrive\Documentos\Algebra Lineal\GaussJordanMatrices\GaussJordanMatrices\GaussJordanMatrices\bin\Debug\GaussJordanMatrices.exe
+C:\Users\hugor\OneDrive\Documentos\Algebra Lineal\GaussJordanMatrices\GaussJordanMatrices\GaussJordanMatrices\bin\Debug\GaussJordanMatrices.pdb
+C:\Users\hugor\OneDrive\Documentos\Algebra Lineal\GaussJordanMatrices\GaussJordanMatrices\GaussJordanMatrices\obj\Debug\GaussJordanMatrices.csproj.AssemblyReference.cache
+C:\Users\hugor\OneDrive\Documentos\Algebra Lineal\GaussJordanMatrices\GaussJordanMatrices\GaussJordanMatrices\obj\Debug\GaussJordanMatrices.Form1.resources
+C:\Users\hugor\OneDrive\Documentos\Algebra Lineal\GaussJordanMatrices\GaussJordanMatrices\GaussJordanMatrices\obj\Debug\GaussJordanMatrices.Properties.Resources.resources
+C:\Users\hugor\OneDrive\Documentos\Algebra Lineal\GaussJordanMatrices\GaussJordanMatrices\GaussJordanMatrices\obj\Debug\GaussJordanMatrices.csproj.GenerateResource.cache
+C:\Users\hugor\OneDrive\Documentos\Algebra Lineal\GaussJordanMatrices\GaussJordanMatrices\GaussJordanMatrices\obj\Debug\GaussJordanMatrices.csproj.CoreCompileInputs.cache
+C:\Users\hugor\OneDrive\Documentos\Algebra Lineal\GaussJordanMatrices\GaussJordanMatrices\GaussJordanMatrices\obj\Debug\GaussJordanMatrices.exe
+C:\Users\hugor\OneDrive\Documentos\Algebra Lineal\GaussJordanMatrices\GaussJordanMatrices\GaussJordanMatrices\obj\Debug\GaussJordanMatrices.pdb

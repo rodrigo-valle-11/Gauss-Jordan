@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35303.130
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GaussJordanMatrices", "GaussJordanMatrices\GaussJordanMatrices.csproj", "{98262D30-889C-4B50-A915-BC4B22C3BE99}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{98262D30-889C-4B50-A915-BC4B22C3BE99}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{98262D30-889C-4B50-A915-BC4B22C3BE99}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{98262D30-889C-4B50-A915-BC4B22C3BE99}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{98262D30-889C-4B50-A915-BC4B22C3BE99}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8E4D288E-8041-4921-AACB-E4598141748A}
+	EndGlobalSection
+EndGlobal
